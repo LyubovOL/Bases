@@ -1,0 +1,6 @@
+D:\Projects\Examples\ChechingArchive\ChechingArchive\bin\Debug\ChechingArchive.exe.config
+D:\Projects\Examples\ChechingArchive\ChechingArchive\bin\Debug\ChechingArchive.exe
+D:\Projects\Examples\ChechingArchive\ChechingArchive\bin\Debug\ChechingArchive.pdb
+D:\Projects\Examples\ChechingArchive\ChechingArchive\obj\Debug\ChechingArchive.csprojResolveAssemblyReference.cache
+D:\Projects\Examples\ChechingArchive\ChechingArchive\obj\Debug\ChechingArchive.exe
+D:\Projects\Examples\ChechingArchive\ChechingArchive\obj\Debug\ChechingArchive.pdb
