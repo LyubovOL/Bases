@@ -4,7 +4,7 @@ using System.Net;
 
 namespace ChechingArchive
 {
-	class ConnectionToFtp
+	public class ConnectionToFtp
 	{
 		String Uri { get; set; }
 
