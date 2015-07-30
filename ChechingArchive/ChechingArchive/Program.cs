@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ChechingArchive
 {
-	class Program
+	public class Program
 	{
 		private static readonly string _login = ConfigurationManager.AppSettings["login"];
 		private static readonly string _password = ConfigurationManager.AppSettings["password"];
